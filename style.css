@@ -1,0 +1,28 @@
+.main {
+border: 3px solid black;
+border-radius: 10px;
+margin: 0 auto;
+width:180px;
+background-color: rgb(66, 66, 66)
+}
+.inp{
+    width: 175px;
+    background-color: rgba(0, 0, 0, 0.726);
+    color: white;
+}
+.btn{
+    width: 40px;
+    
+    background-color: rgb(218, 218, 218);
+    border: 0px solid  rgb(218, 218, 218);
+    
+}
+ .btn1{
+     width:45px;
+     
+     border-radius: 2em;
+     background-color: rgb(255, 174, 0);
+     /* border: 0px solid orange; */
+     margin-top: 2px;
+   
+ }   
